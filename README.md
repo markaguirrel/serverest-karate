@@ -34,7 +34,7 @@ npm -v
 ## Instalación
 
 ```bash
-git clone https://github.com/TU_USUARIO/saucedemo-playwright-cucumber.git
+git clone https://github.com/markaguirrel/saucedemo-playwright-cucumber.git
 cd saucedemo-playwright-cucumber
 npm install
 npx playwright install chromium
